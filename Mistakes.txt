@@ -1,0 +1,2 @@
+- Commit message supposed to be "Completed P3: Add a View."
+Commit link: https://github.com/JaspeR2777/mvc-movie-app/commit/479945e6afe41e980aac294b705ef89abbcab63a
